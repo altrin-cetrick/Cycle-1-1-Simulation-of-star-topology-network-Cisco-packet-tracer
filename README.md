@@ -33,18 +33,10 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 
 ## 📊 IP CONNECTIVITY TABLE
 
-| SENDER/RECEIVER | PC0 | PC1 | PC2 | PC3 | PC4 | PC5 |
-|------------------|-----|-----|-----|-----|-----|-----|
-| PC0              |     |     |     |     |     |     |
-| PC1              |     |     |     |     |     |     |
-| PC2              |     |     |     |     |     |     |
-| PC3              |     |     |     |     |     |     |
-| PC4              |     |     |     |     |     |     |
-| PC5              |     |     |     |     |     |     |
-
+<img width="979" height="228" alt="Screenshot 2025-11-05 155901" src="https://github.com/user-attachments/assets/22628a02-3f8d-42ce-816e-220f3cc0abde" />
 ## 🗺️ NETWORK DIAGRAM
 ---
-<img width="1024" height="326" alt="image" src="https://github.com/user-attachments/assets/b1678fb3-30c2-4351-9b61-ee7b524be458" />
+<img width="1013" height="587" alt="image" src="https://github.com/user-attachments/assets/044f0f4d-db42-4fb3-842e-ac8bbf82110e" />
 
 
 ## 🧾 BASIC NETWORKING COMMANDS
